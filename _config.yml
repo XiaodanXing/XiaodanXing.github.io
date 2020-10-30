@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "XiaodanXing / homepage"
 title_separator          : "-"
 name                     : &name "Xiaodan Xing"
-description              : &description "R&D Intern, Shanghai United Imaging Intelligence"
+description              : &description "personal discription"
 url                      : https://xiaodanxing.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiaodan Xing"
   avatar           : "Xiaodan.jpg"
-  bio              : "I have graduated from Shanghai Advanced Research Institute and currently I am working as an intern in Shanghai United Imaging Intelligence. I am responsible for the prognosis system of brain glioma using pathological slides. The functions of the system range from image patch classification and necrosis detection.  I am interested in increasing the explianablity of deep neural networks and the combination of medical prior knowledge and deep learning algorithms. "
+  bio              : "R&D Intern, Shanghai United Imaging Intelligence"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
