@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Shanghai, China"
-title                    : "XiaodanXing/homepage"
+locale                   : "en-US"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Xiaodan Xing"
-description              : &description "R&D Intern, Shanghai United Imaging Intelligence"
+name                     : &name "Your Name"
+description              : &description "personal description"
 url                      : https://xiaodanxing.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/homepage" # the subpath of your site, e.g. "/blog"
-repository               : "XiaodanXing/XiaodanXing.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -56,9 +56,12 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-LinkedIn:
-  username               :XiaodanXing
-  links              :https://www.linkedin.com/in/xiaodan-xing-618061153/
+twitter:
+  username               : &twitter
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -77,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaodan Xing"
-  avatar           : "Xiaodan.jpg"
-  bio              : "I have graduated from Shanghai Advanced Research Institute and currently I am working as an intern in Shanghai United Imaging Intelligence. I am responsible for the prognosis system of brain glioma using pathological slides. The functions of the system range from image patch classification and necrosis detection.  I am interested in increasing the explianablity of deep neural networks and the combination of medical prior knowledge and deep learning algorithms. "
-  location         : "Shanghai, China"
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=dUFYArYAAAAJ&hl=en"
-  email            : "xingxiaodan@sari.ac.cn"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -93,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -233,6 +236,14 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
