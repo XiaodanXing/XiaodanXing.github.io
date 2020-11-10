@@ -2,7 +2,7 @@
 title: "Detection of Discriminative Neurological Circuits Using Hierarchical Graph Convolutional Networks in fMRI Sequences"
 collection: publications
 permalink: /publication/2020-BrainCircuit-number-4
-excerpt: "<br/><img src='/images/paper3.PNG'>"
+excerpt: "<br/><img src='/images/paper3.PNG' width="60%"/>"
 date: 2020-10-04
 venue: '3rd Workshop on GRaphs in biomedicAl Image anaLysis'
 paperurl: 'https://doi.org/10.1007/978-3-030-60365-6\_12'
