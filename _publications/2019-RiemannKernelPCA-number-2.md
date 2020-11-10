@@ -2,7 +2,7 @@
 title: "Diagnosis of OCD Using Functional Connectome and Riemann Kernel PCA"
 collection: publications
 permalink: /publication/2019-RiemannKernelPCA-number-2
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/paper1.PNG'>"
+excerpt: "<br/><img src='/images/paper1.PNG'>"
 date: 2019-10-01
 venue: 'SPIE Medical Imaging 2019'
 paperurl: 'https://doi.org/10.1117/12.2512316'
