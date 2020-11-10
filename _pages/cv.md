@@ -17,11 +17,11 @@ Education
 
 Work experience
 ======
-* 2020. 12 - present: R&D Engineer
+* Dec. 2020 - present: R&D Engineer
   * Shanghai United Imaging Intelligence
   * Duties included: Development of functional MRI processing tools; pathological slide classification & segmentation
 
-* 2018. 2 - 2020. 9: R&D Intern
+* Feb. 2018 - Nov. 2020: R&D Intern
   * Shanghai United Imaging Intelligence
   * Duties included: Neurological disease classification using functional MRI
   
