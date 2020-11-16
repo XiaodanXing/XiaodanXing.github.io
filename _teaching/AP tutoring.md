@@ -4,7 +4,7 @@ collection: teaching
 type: "Tutoring"
 venue: "Shanghai, China"
 date: 2018.9 - 2020.7
-excerpt: "AP scores from my student david.<br/><img src='/images/scores.PNG'>"
+excerpt: "AP scores from my student david.<br/><img src='/images/scores.jpg'>"
 location: "Shanghai, China"
 ---
 
