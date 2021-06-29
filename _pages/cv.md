@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, Fudan University, 2017
+* Ph.D in Biomedical Engineering, Imperial College London, 2024 (expected)
 * M.S. in Electrical Engineering, Shanghai Advanced Research Institute, 2020
-* Ph.D in Computer Science, University of California, Los Angeles, 2026 (expected)
+* B.S. in Physics, Fudan University, 2017
 
 Work experience
 ======
-* Dec. 2020 - present: R&D Engineer
+* Dec. 2020 - Jun. 2021: R&D Engineer
   * Shanghai United Imaging Intelligence
   * Duties included: Development of functional MRI processing tools; pathological slide classification & segmentation
 
